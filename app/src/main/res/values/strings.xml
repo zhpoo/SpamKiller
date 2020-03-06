@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpamKiller</string>
+    <string name="set_default_sms_app">设置默认短信应用</string>
+</resources>
